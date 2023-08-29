@@ -1,0 +1,1 @@
+This is a not empty directory for git in the zero alx project

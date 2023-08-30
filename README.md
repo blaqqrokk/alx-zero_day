@@ -1,2 +1,2 @@
 My first readme
-New line uupdated from github
+New line updated from github
